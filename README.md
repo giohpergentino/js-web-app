@@ -13,3 +13,6 @@ Além de enviar o link da imagem, o usuário pode atribuir um nome ou descriçã
 #### Objetivo do Projeto
 O propósito deste web app é criar uma solução rápida e eficiente para gerar uma galeria de fotos sem a necessidade de fazer upload de arquivos, aproveitando imagens que já estão hospedadas online. Essa abordagem facilita a inserção e compartilhamento de galerias em diferentes contextos, como blogs, sites pessoais ou projetos profissionais.
 
+![image](https://github.com/user-attachments/assets/14ffc152-8331-4a39-8158-9cfe816fd3b7)
+
+
